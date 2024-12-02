@@ -1,0 +1,15 @@
+/**
+ * HolaMundo.java
+ * Programa simple que muestra un mensaje la consola del sistema.
+ * ajp - 2024.10.23
+ */
+
+public class HolaMundo//Nombre de la clase 
+		 {
+	public static void main(String[] args) {	
+	System.out.println("HolaMundo.java")
+	System.out.println("Version2.0");
+	System.out.println("David Bernal");	
+	System.out.println("Hola mundo...");  //Muestra mensaje por pantalla 
+	}
+}
